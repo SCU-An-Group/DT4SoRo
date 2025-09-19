@@ -1,0 +1,1 @@
+abaqus cae noGUI=GenerateParametes_and_SubJOB.py
