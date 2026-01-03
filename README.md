@@ -6,4 +6,4 @@ This code was originally developed to demonstrate a reduced-order surrogate mode
 
 If you use or edit our work, please cite the appropriate reference:
 
-Yichen Pu, Xinjie Hu, Xingrui Liu, Shichao Niu, and Ning An. Toward digital twins of soft pneumatic actuators via a reduced-order surrogate modeling approach. Submitted.
+Yichen Pu, Xinjie Hu, Xingrui Liu, Shichao Niu, and Ning An. Digital twins of soft pneumatic actuators via reduced-order surrogate modeling. Submitted to _International Journal of Mechanical Sciences_.
